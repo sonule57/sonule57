@@ -1,10 +1,10 @@
-# Saloni-Wadalkar
+# Vaishali-Sonule
 ![](https://komarev.com/ghpvc/?username=sonule57&color=green&style=flat)
 
 # Hi there 👋, I'm Vaishali Sonule
 
 ## About Me
-<h4>I'm Frontend Web Developer | I'm passionate about creating robust and user-friendly web applications. My skills include HTML5,CSS3,JS,Reactjs</h4>
+<h4>I'm Frontend Web Developer | I'm passionate about creating robust and user-friendly web applications. My skills include HTML5, CSS3, JS, Reactjs</h4>
                
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /> <img height=50 >
 
@@ -32,7 +32,7 @@
 <img src="https://github.com/Altafk6198/Altafk6198/assets/101108751/3deac7ec-9549-4ab6-84c1-81783d5bf561" height="20" width="20">  sonulevaishali74@gmail.com </h5>
 
 ### ⚡ Fun fact
-<h5>I love Dancing and Sketching, Travelling and exploring new places.</h5>
+<h5>I love Cooking and Craft work, Travelling and exploring new places.</h5>
 
 ## My Skills
 
@@ -56,6 +56,6 @@
 ## Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonule57"/>
 
-![Vaishali's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonule57&show_icons=true&theme=radical)
+![Vaishali GitHub stats](https://github-readme-stats.vercel.app/api?username=sonule57&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonule57&show_progress=true)
